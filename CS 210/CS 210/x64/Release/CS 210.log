@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (CS 210 Language Integration.vcxproj, CS 210.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Jon\Desktop\School\SNHU\Prog Lang CS 210\CS 210\CS 210\Source.cpp(230,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  4 of 326 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS 210.vcxproj -> C:\Users\Jon\Desktop\School\SNHU\Prog Lang CS 210\CS 210\x64\Release\CS 210 Project 3.exe
